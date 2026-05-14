@@ -19,3 +19,4 @@
     "autoprefixer": "latest"
   }
 }
+"@tailwindcss/postcss": "latest"
